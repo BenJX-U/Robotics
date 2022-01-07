@@ -1,3 +1,5 @@
+// To change adjust rate of a blinking LED through serial moniter.
+
 #define ONBOARD_LED 2
 
 void setup() {
